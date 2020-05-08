@@ -48,5 +48,5 @@ It is possible in https://us-east-2.console.aws.amazon.com/s3/proxy when sending
 
 
 - 20.04.2020 - Reported to https://aws.amazon.com/security/
-- 06.05.2020 - Patch 
+- 06.05.2020 - Vulnerabilities was patched 
 
