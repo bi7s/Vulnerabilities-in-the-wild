@@ -19,16 +19,44 @@ Steps to reproduce:
   6. You will redirect to "new" host. 
 
 Screenshots :
-- https://www.google.com
 
 
-- https://account.google.com
+## https://www.google.com
 
+Normal request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(www.google.com)%20norm.png)
 
-- https://mail.google.com
+Injected request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(www.google.com)%20inj.png)
 
+## https://account.google.com
 
-- https://drive.google.com
+Normal request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(account.google.com)%20norm.png)
 
+Injected request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(account.google.com)%20inj%20.png)
 
-- https://youtube.com
+## https://mail.google.com
+
+Normal request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(mail.google.com)%20norm.png)
+
+Injected request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(mail.google.com)%20inj%20.png)
+
+## https://drive.google.com
+
+Normal request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(drive.google.com)%20norm.png)
+
+Injected request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(drive.google.com)%20inj.png)
+
+## https://www.youtube.com
+
+Normal request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(www.youtube.com)%20norm.png)
+
+Injected request
+![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(www.youtube.com)%20inj.png)
