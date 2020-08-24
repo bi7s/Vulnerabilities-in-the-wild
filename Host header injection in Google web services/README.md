@@ -1,4 +1,4 @@
-### Host header injection in Google web services
+# Host header injection in Google web services
 
 ## List of vulnerable services :
 
@@ -46,6 +46,6 @@ Screenshots :
 ![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/HHI%20(www.youtube.com)%20inj.png)
 
 
-# Anwser from Google:
+### Anwser from Google:
 
 ![](https://github.com/bi7s/Vulnerabilities-in-the-wild/blob/master/Host%20header%20injection%20in%20Google%20web%20services/answer.png)
