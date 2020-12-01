@@ -8,7 +8,7 @@
 - https://drive.google.com
 - https://youtube.com
 
-and other
+and others
 
 Steps to reproduce:
   1. Go to any site from list (google.com, account.google.com, mail.google.com, youtube.com drive.google.com);
