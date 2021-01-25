@@ -4,27 +4,26 @@
 
 1. Open https://portal.azure.com/ and go to Azure Cloud Shell:
 
-![](https://)
+![](1.png)
 
 2. Create file using xss payload as name;
-
-![](https://)
 
 ### We will need to call error message in future. I used limitation of rights;
 
 3. Change permissions for file like this:
 
-![](https://)
+![](2.png)
 
 4. Open created file using editor in portal:
 
-![](https://)
+![](3.png)
 
 5. Click "Save" or "CTRL+S";
 
 6. Alert.
 
-![](https://)
+![](4.png)
+![](5.png)
 
 
 ## Timeline
